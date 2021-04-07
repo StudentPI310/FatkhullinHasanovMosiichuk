@@ -8,7 +8,7 @@ public class ProdactTest {
     @Test    
     public void getProiz() throws Exception {
         Prodact testProd = new Prodact(3,4,"test");
-        assertTrue(testProd.getProiz()==11);
+        assertTrue(testProd.getProiz()==12);
         }
 
     
